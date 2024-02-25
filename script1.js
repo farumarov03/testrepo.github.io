@@ -1,4 +1,3 @@
-// var test = 1
 // var counter = 0;
 // var min = 1;
 // var max = 10;
