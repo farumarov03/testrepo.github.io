@@ -3,6 +3,7 @@ var min = 1;
 var max = 10;
 var res;
 var idx = 0;
+var test = 0;
 
 function randomNumber(min, max) {
     min = Math.ceil(min);
