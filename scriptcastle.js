@@ -9,6 +9,7 @@ function randomNumber(min, max) {
     max = Math.floor(max);
     return Math.floor(Math.random() * (max - min + 1)) + min;
 }
+
 function getRndVal() {
     min = document.getElementById("min").value;
     max = document.getElementById("max").value;
